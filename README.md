@@ -48,3 +48,7 @@ This project is a simple sentiment analysis tool that determines whether a given
 
 
 > Created as part of Micro IT Internship 💼
+> ## 🖼️ App Screenshot
+
+![App Screenshot](https://github.com/Gnapika07/Sentiment-Analysis/blob/main/app_screenshot.jpg?raw=true)
+
