@@ -1,3 +1,10 @@
+# 🎯 Sentiment Analysis App
+
+✅ **Live App**: [Click here to open](https://sentiment-analysis-jc3ooe3tdxetfu3rfyewzb.streamlit.app)
+
+A simple web app built with **Streamlit** and **TextBlob** to analyze the sentiment of your text.
+
+
 
 # Sentiment Analysis Project 💬
 
@@ -39,6 +46,5 @@ This project is a simple sentiment analysis tool that determines whether a given
 - `requirements.txt`: Required libraries
 - `README.md`: Project documentation
 
----
 
 > Created as part of Micro IT Internship 💼
